@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="eg3" size="6.000000 6.000000" />
+    <ImageTarget name="eg2" size="6.000000 6.000000" />
+    <ImageTarget name="eg4" size="6.000000 8.266666" />
+    <ImageTarget name="eg1" size="6.000000 5.406522" />
+    <ImageTarget name="bird" size="6.000000 8.224899" />
+  </Tracking>
+</QCARConfig>
